@@ -1,0 +1,11 @@
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\GoogleSheetsDrive.exe
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\GoogleSheetsDrive.dll
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\GoogleSheetsDrive.deps.json
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\GoogleSheetsDrive.runtimeconfig.json
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\GoogleSheetsDrive.pdb
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.dll
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Auth.PlatformServices.dll
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Auth.dll
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Core.dll
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Sheets.v4.dll
+D:\Users\Dev\Desktop\APIGoogleSheets-copia\ExcelDrive\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll

@@ -1,0 +1,11 @@
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\ExcelDrive.exe
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\ExcelDrive.dll
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\ExcelDrive.deps.json
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\ExcelDrive.runtimeconfig.json
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\ExcelDrive.pdb
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.dll
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Auth.PlatformServices.dll
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Auth.dll
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Core.dll
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\Google.Apis.Sheets.v4.dll
+D:\OneDrive\Paneles Leonera\Código\APIGoogleSheets\ExcelDrive\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
